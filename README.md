@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 Sou a Nathalli, estou realizando um curso técnico de Desenvolvimento de Sistemas na Etec Horácio Augusto da Silveira em São Paulo.
 
