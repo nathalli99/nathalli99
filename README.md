@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Sou a Nathalli, estou realizando um curso técnico de Desenvolvimento de Sistemas na Etec Horácio Augusto da Silveira em São Paulo.
+
+
 <!--
 **nathalli99/nathalli99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
