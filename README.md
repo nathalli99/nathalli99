@@ -1,51 +1,49 @@
-### Hi there! I'm Nathalli :raising_hand:
+### Hi there! I'm Nathalli 👋
 
-I am currently studying **Systems Analysis and Development** at **SPTech School**.  
-I have a strong interest in **backend development** and **databases**, and I am always eager to learn new technologies to improve my skills.  
+Systems Analysis and Development student at **SPTech** with a technical foundation from **ETEC** and 1+ year of hands-on experience in **Data & Business Intelligence** in the fintech industry.
 
-## 💻 Technologies & Skills  
-🔹 **Programming Languages:** C# | JavaScript  
-🔹 **Backend:** .NET  
-🔹 **Databases:** MySQL | SQLServer  
-🔹 **Version Control:** Git & GitHub  
-🔹 **Learning:** JavaScript | HTML | CSS  
+I focus on the intersection of **technology and business rules** — specializing in **Data Governance**, data quality, pipeline monitoring, and analytical storytelling for decision-making.
 
-## 🚀 About Me  
-- 📚 Always learning and improving my skills  
-- 🤝 Open to collaboration on backend projects  
+---
 
-## 📊 GitHub Stats  
+### 🔍 Core Focus & Expertise
+- 📊 **Business Intelligence & Analytics:** Translating business requirements into actionable metrics, data modeling, and executive dashboards.
+- 🏛️ **Data Governance & Quality:** Data lineage, data dictionaries, process documentation, and cloud cost efficiency (FinOps).
+- ☁️ **Data Architecture:** Experience with Data Warehousing, S3 data layers (Parquet), and workflow orchestration.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Data & Cloud Ecosystem:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-%238C4FFF.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Foundations & Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalli99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalli99&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathalli99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalli99&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
+---
 
-## 🛠️ Tech Stack  
-<div style="display: inline_block"><br>
-  <img align="center" alt="C#" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-   <img align="center" alt="microsoftsqlserver" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-    <img align="center" alt="js" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="html" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Figma" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">        
-</div>
-
-##
- 
-## 📫 Let's Connect!  
-<div> 
-  <a href="https://github.com/nathalli99" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+### 📫 Let's Connect!
+<div>
+  <a href="https://www.linkedin.com/in/nathalli-ribeiro" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/nathalli-ribeiro-7b0242251/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%2300A0DC?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  <a href="mailto:nathallidev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
-
