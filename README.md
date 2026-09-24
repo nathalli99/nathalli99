@@ -30,14 +30,6 @@ I focus on the intersection of **technology and business rules** — specializin
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathalli99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalli99&layout=compact&langs_count=6&theme=radical"/>
-</div>
-
----
-
 ### 📫 Let's Connect!
 <div>
   <a href="https://www.linkedin.com/in/nathalli-ribeiro" target="_blank">
